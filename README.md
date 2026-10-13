@@ -32,7 +32,7 @@ I have successfully built and deployed numerous professional websites for **NetS
 | 🎨 Web Design | ⚙️ Development | 📈 SEO | ✍️ Copywriting |
 |:---:|:---:|:---:|:---:|
 | Modern, responsive UI | WordPress & WooCommerce | On-page & technical SEO | Conversion-focused copy |
-| Elementor custom layouts | Custom HTML/CSS/JS blocks | Rank Math optimization | Service & landing pages |
+| Elementor custom layouts <br> | Custom HTML/CSS/JS blocks | Rank Math optimization | Service, landing pages, Woocommerse & Portfolio |
 
 </div>
 
